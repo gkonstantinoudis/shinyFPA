@@ -1,0 +1,13 @@
+name: CalculateFPA
+title: CalculateFPA
+username:
+account: garyfallos-konstantinoudis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4252599
+bundleId: 4700766
+url: https://garyfallos-konstantinoudis.shinyapps.io/CalculateFPA/
+when: 1623325290.87581
+lastSyncTime: 1623325290.87581
+asMultiple: FALSE
+asStatic: FALSE
